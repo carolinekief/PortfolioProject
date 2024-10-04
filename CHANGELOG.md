@@ -13,3 +13,13 @@ the following form: YYYY.0M.0D.
 - Designed a MyPlaylist component
 - Designed a ShoppingCart component
 - Designed a LogicGate component
+
+## [2024.10.04]
+
+### Added
+
+- Designed a proof of concept for Shopping Cart component
+
+### Updated
+
+- Changed design to include kernel methods addItem, removeItem, and price. Also added a main method to show the basics of the shopping cart results.
