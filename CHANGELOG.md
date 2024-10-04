@@ -14,7 +14,7 @@ the following form: YYYY.0M.0D.
 - Designed a ShoppingCart component
 - Designed a LogicGate component
 
-## 2024.10.04
+## [2024.10.04]
 
 ### Added
 
